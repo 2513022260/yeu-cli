@@ -1,2 +1,0 @@
-# yeu-cli
-yeu-ui
